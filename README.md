@@ -80,9 +80,10 @@ CODEFORCES/
 <td><strong>Day 5</strong></td>
 <td>Jun 27, 2025</td> 
 <td><a href="https://codeforces.com/problemset/problem/1890/A">Doremy's Paint 3</a></td>
-<td>800</td>
-<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/Doremy's%20Paint/DoremyPaint3.java/">📁 View</td>
+<td><code>800</code></td>
 <td>✅</td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/Doremy's%20Paint/DoremyPaint3.java/">📁 View</td>
+
 </tr>
    
 <tr>
