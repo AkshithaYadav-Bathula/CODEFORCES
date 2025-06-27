@@ -78,8 +78,8 @@ CODEFORCES/
 </tr>
 <tr>
 <td><strong>Day 5</strong></td>
-<td>Jun 27, 2025</td>
-<td><em>Pending...</em></td>
+<td>Jun 27, 2025</td> 
+<td><a href="https://codeforces.com/problemset/problem/1890/A">Doremy's Paint 3</a></td>
 <td>-</td>
 <td>⬜</td>
 <td>-</td>
