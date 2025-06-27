@@ -80,10 +80,11 @@ CODEFORCES/
 <td><strong>Day 5</strong></td>
 <td>Jun 27, 2025</td> 
 <td><a href="https://codeforces.com/problemset/problem/1890/A">Doremy's Paint 3</a></td>
-<td>-</td>
-<td>⬜</td>
-<td>-</td>
+<td>800</td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/Doremy's%20Paint/DoremyPaint3.java/">📁 View</td>
+<td>✅</td>
 </tr>
+   
 <tr>
 <td><strong>Day 6</strong></td>
 <td>Jun 28, 2025</td>
@@ -92,10 +93,20 @@ CODEFORCES/
 <td>⬜</td>
 <td>-</td>
 </tr>
+
 <tr>
 <td><strong>Day 7</strong></td>
 <td>Jun 29, 2025</td>
 <td><em>Pending...</em></td></td>
+<td>-</td>
+<td>⬜</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Day 8</strong></td>
+<td>Jun 30, 2025</td>
+<td><em>Pending...</em></td>
 <td>-</td>
 <td>⬜</td>
 <td>-</td>
@@ -105,8 +116,8 @@ CODEFORCES/
 
 ### 📈 Statistics
 
-- **Problems Solved:** 4/31+ 
-- **Current Streak:** 4 days
+- **Problems Solved:** 5/31+ 
+- **Current Streak:** 5 days
 - **Success Rate:** 100%
 - **Favorite Difficulty:** 800
 
