@@ -92,7 +92,7 @@ CODEFORCES/
 <td><a href="https://codeforces.com/problemset/problem/1881/A">Don't Try to Count</a></td>
 <td>><code>800</td>
 <td>✅</td>
-<td><a href=" https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/CP31_Q7/Main.java"></td>
+<td><a href=" https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/CP31_Q7/Main.java">📁 View</td>
 </tr>
 
 <tr>
