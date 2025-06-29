@@ -30,7 +30,7 @@ CODEFORCES/
 
 ## 📊 Daily Challenge Progress
 
-> **Started:** June 23, 2025 • **Current Streak:** 5 days
+> **Started:** June 23, 2025 • **Current Streak:** 7 days
 
 <table>
 <thead>
@@ -98,10 +98,11 @@ CODEFORCES/
 <tr>
 <td><strong>Day 7</strong></td>
 <td>Jun 29, 2025</td>
-<td><a href=""></td>
+<td><a href="https://codeforces.com/problemset/problem/1878/A">How Much Does Daytona Cost?
+</td>
 <td><code>800</td>
-<td>⬜</td>
-<td><a href=""></td>
+<td>✅</td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/MostCommonSubsegment/MostCommonSubsegment.java">📁 View</td>
 </tr>
 
 <tr>
@@ -121,13 +122,22 @@ CODEFORCES/
 <td>⬜</td>
 <td><a href=""></td>
 </tr>
+
+  <tr>
+<td><strong>Day 8</strong></td>
+<td>Jul 02, 2025</td>
+<td><em>Pending...</em></td>
+<td>-</td>
+<td>⬜</td>
+<td>-</td>
+</tr> 
 </tbody>
 </table>
 
 ### 📈 Statistics
 
-- **Problems Solved:** 5/31+ 
-- **Current Streak:** 5 days
+- **Problems Solved:** 8/31+ 
+- **Current Streak:** 7 days
 - **Success Rate:** 100%
 - **Favorite Difficulty:** 800
 
