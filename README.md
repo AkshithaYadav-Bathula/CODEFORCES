@@ -102,7 +102,7 @@ CODEFORCES/
 </td>
 <td><code>800</td>
 <td>✅</td>
-<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/MostCommonSubsegment/MostCommonSubsegment.java"></td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/MostCommonSubsegment/MostCommonSubsegment.java">📁 View</td>
 </tr>
 
 <tr>
