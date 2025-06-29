@@ -85,23 +85,23 @@ CODEFORCES/
 <td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/Doremy's%20Paint/DoremyPaint3.java/">📁 View</td>
 
 </tr>
-   
+  
 <tr>
 <td><strong>Day 6</strong></td>
 <td>Jun 28, 2025</td>
-<td><em>Pending...</em></td>
-<td>-</td>
-<td>⬜</td>
-<td>-</td>
+<td><a href="https://codeforces.com/problemset/problem/1881/A">Don't Try to Count</a></td>
+<td><code>800</td>
+<td>✅</td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/CP31_Q7/Main.java">📁 View</td>
 </tr>
 
 <tr>
 <td><strong>Day 7</strong></td>
 <td>Jun 29, 2025</td>
-<td><em>Pending...</em></td></td>
-<td>-</td>
+<td><a href=""></td>
+<td><code>800</td>
 <td>⬜</td>
-<td>-</td>
+<td><a href=""></td>
 </tr>
 
 <tr>
@@ -111,6 +111,15 @@ CODEFORCES/
 <td>-</td>
 <td>⬜</td>
 <td>-</td>
+</tr>
+
+<tr>
+<td><strong>Day 9</strong></td>
+<td>Jul 01, 2025</td>
+<td><a href=""></td>
+<td><code>800</td>
+<td>⬜</td>
+<td><a href=""></td>
 </tr>
 </tbody>
 </table>
