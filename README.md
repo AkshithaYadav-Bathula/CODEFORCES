@@ -136,8 +136,8 @@ CODEFORCES/
 
 ### 📈 Statistics
 
-- **Problems Solved:** 8/31+ 
-- **Current Streak:** 7 days
+- **Problems Solved:** 9/31+ 
+- **Current Streak:** 8 days
 - **Success Rate:** 100%
 - **Favorite Difficulty:** 800
 
