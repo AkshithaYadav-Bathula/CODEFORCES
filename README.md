@@ -30,7 +30,7 @@ CODEFORCES/
 
 ## 📊 Daily Challenge Progress
 
-> **Started:** June 23, 2025 • **Current Streak:** 7 days
+> **Started:** June 23, 2025 • **Current Streak:** 8 days
 
 <table>
 <thead>
@@ -108,10 +108,10 @@ CODEFORCES/
 <tr>
 <td><strong>Day 8</strong></td>
 <td>Jun 30, 2025</td>
-<td><em>Pending...</em></td>
-<td>-</td>
-<td>⬜</td>
-<td>-</td>
+<td><a href="https://codeforces.com/problemset/problem/1877/A">Goals of Victory</td>
+<td><code>800</td>
+<td>✅</td>
+<td><a href="https://github.com/AkshithaYadav-Bathula/CODEFORCES/blob/main/800/1877A-GoalsOfVictory/GoalsOfVictory.java">📁 View</td>
 </tr>
 
 <tr>
